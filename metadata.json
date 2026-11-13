@@ -1,0 +1,6 @@
+{
+  "name": "LifeVault System",
+  "description": "Personal asset, legal paperwork, warranty, digital credential, and emergency continuity vault with AI document extraction and privacy masking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
